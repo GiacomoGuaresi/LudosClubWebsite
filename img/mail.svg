@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="mail.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 160 122"
+   height="122mm"
+   width="160mm">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showguides="false"
+     showgrid="false"
+     inkscape:current-layer="g5322"
+     inkscape:document-units="mm"
+     inkscape:cy="285.76722"
+     inkscape:cx="297.40513"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-175)">
+    <g
+       id="g5322"
+       transform="rotate(27.64161,99.528721,196.72292)">
+      <g
+         id="g889"
+         transform="matrix(8.8586688,-4.639395,4.639395,8.8586688,6.4285571,211.92828)"
+         style="fill:#101010;fill-opacity:1">
+        <g
+           id="g829"
+           style="fill:#101010;fill-opacity:1">
+          <g
+             id="g827"
+             style="fill:#101010;fill-opacity:1">
+            <path
+               id="path819"
+               d="M 7,9 5.268,7.484 0.316,11.729 C 0.496,11.896 0.739,12 1.007,12 h 11.986 c 0.267,0 0.509,-0.104 0.688,-0.271 L 8.732,7.484 Z"
+               style="fill:#101010;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path821"
+               d="M 13.684,2.271 C 13.504,2.103 13.262,2 12.993,2 H 1.007 C 0.74,2 0.498,2.104 0.318,2.273 L 7,8 Z"
+               style="fill:#101010;fill-opacity:1"
+               inkscape:connector-curvature="0" />
+            <polygon
+               id="polygon823"
+               points="0,11.186 4.833,7.079 0,2.878 "
+               style="fill:#101010;fill-opacity:1" />
+            <polygon
+               id="polygon825"
+               points="14,11.186 14,2.875 9.167,7.079 "
+               style="fill:#101010;fill-opacity:1" />
+          </g>
+        </g>
+        <g
+           id="g831"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g833"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g835"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g837"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g839"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g841"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g843"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g845"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g847"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g849"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g851"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g853"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g855"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g857"
+           style="fill:#101010;fill-opacity:1" />
+        <g
+           id="g859"
+           style="fill:#101010;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

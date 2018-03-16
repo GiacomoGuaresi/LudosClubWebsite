@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87mm"
+   height="122mm"
+   viewBox="0 0 87 122"
+   version="1.1"
+   id="svg4894"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="tessera.svg"
+   enable-background="new">
+  <defs
+     id="defs4888">
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter5617">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset5607" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur5609" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood5611" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite5613" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend5615" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1111">
+      <feBlend
+         inkscape:collect="always"
+         mode="overlay"
+         in2="BackgroundImage"
+         id="feBlend1113" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-83.373646"
+     inkscape:cy="46.039178"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4891">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-175)">
+    <g
+       id="g5605"
+       style="filter:url(#filter1111);fill:#101010;fill-opacity:1"
+       transform="matrix(0.89284169,0,0,0.89284169,7.2619042,21.659341)">
+      <g
+         style="fill:#101010;fill-opacity:1"
+         transform="matrix(2.0333684,0,0,2.0333684,-20.333684,174.9979)"
+         id="g5581">
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5521">
+          <path
+             style="fill:#101010;fill-opacity:1"
+             sodipodi:nodetypes="ccsssssscsssssccss"
+             inkscape:connector-curvature="0"
+             d="M 47,4 C 26.703159,4 29.415377,4 13,4 11.346,4 10,5.346 10,7 v 50 c 0,1.654 1.346,3 3,3 h 34 c 1.654,0 3,-1.346 3,-3 V 7 C 50,5.346 48.654,4 47,4 Z m 1,53 c 0,0.552 -0.448,1 -1,1 H 13 c -0.552,0 -1,-0.448 -1,-1 V 7 c 0,-0.552 0.448,-1 1,-1 29.485116,0 2.442289,0 34,0 0.552,0 1,0.448 1,1 z"
+             id="path5511" />
+          <path
+             style="fill:#101010;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="M 40,43 H 20 c -0.553,0 -1,0.447 -1,1 0,0.553 0.447,1 1,1 h 20 c 0.553,0 1,-0.447 1,-1 0,-0.553 -0.447,-1 -1,-1 z"
+             id="path5513" />
+          <path
+             style="fill:#101010;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="M 40,48 H 20 c -0.553,0 -1,0.447 -1,1 0,0.553 0.447,1 1,1 h 20 c 0.553,0 1,-0.447 1,-1 0,-0.553 -0.447,-1 -1,-1 z"
+             id="path5515" />
+          <path
+             style="fill:#101010;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="M 40,53 H 20 c -0.553,0 -1,0.447 -1,1 0,0.553 0.447,1 1,1 h 20 c 0.553,0 1,-0.447 1,-1 0,-0.553 -0.447,-1 -1,-1 z"
+             id="path5517" />
+          <path
+             style="fill:#101010;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             d="M 40,12.631662 H 20 v 24 h 20 z m -10,3 c 2.757,0 5,2.243 5,5 0,2.757 -2.243,5 -5,5 -2.757,0 -5,-2.243 -5,-5 0,-2.757 2.243,-5 5,-5 z m 6,19 H 24 v -1 c 0,-3.309 2.691,-6 6,-6 3.309,0 6,2.691 6,6 z"
+             id="path5519" />
+        </g>
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5523" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5525" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5527" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5529" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5531" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5533" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5535" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5537" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5539" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5541" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5543" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5545" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5547" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5549" />
+        <g
+           style="fill:#101010;fill-opacity:1"
+           id="g5551" />
+      </g>
+    </g>
+  </g>
+</svg>
